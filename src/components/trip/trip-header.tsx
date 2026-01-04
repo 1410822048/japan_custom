@@ -1,6 +1,5 @@
 import Link from 'next/link'
-import { format } from 'date-fns'
-import { Calendar, User, ChevronLeft } from 'lucide-react'
+import { ChevronLeft } from 'lucide-react'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Button } from '@/components/ui/button'
 

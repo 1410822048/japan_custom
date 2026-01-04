@@ -2,7 +2,7 @@
 
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { CalendarDays, MapPin, Trash2 } from "lucide-react"
+import { CalendarDays, Trash2 } from "lucide-react"
 import { format } from "date-fns"
 import { useRouter } from "next/navigation"
 import { TripCoverUpload } from "@/components/trip-cover-upload"
